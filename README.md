@@ -25,14 +25,12 @@
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
 <p>
+  <a href="https://www.linkedin.com/in/zain-almawla-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:dydx4422@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- LinkedIn placeholder — replace YOUR-USERNAME after creating profile
-  <a href="https://linkedin.com/in/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  -->
   <img src="https://img.shields.io/badge/Ankara-Turkey-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open to work"/>
 </p>
@@ -121,10 +119,10 @@ fun_fact: "I trained my own math model — because off-the-shelf wasn't enough"
 <div align="center">
 
 <a href="https://github.com/zico20">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zico20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zico20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800" alt="github stats"/>
 </a>
 <a href="https://github.com/zico20">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zico20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zico20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8&cache_seconds=1800" alt="top languages"/>
 </a>
 
 <br/><br/>
@@ -228,11 +226,9 @@ Got an interesting project? A remote role? Or just want to say hi?
 <a href="mailto:dydx4422@gmail.com">
   <img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
-<!-- Add after creating LinkedIn:
-<a href="https://linkedin.com/in/YOUR-USERNAME">
+<a href="https://www.linkedin.com/in/zain-almawla-dev">
   <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
--->
 
 </div>
 
