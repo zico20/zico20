@@ -223,7 +223,7 @@ Got an interesting project? A remote role? Or just want to say hi?
 
 <br/>
 
-<a href="mailto:dydx4422@gmail.com">
+<a href="mailto:zainalmawla11@gmail.com">
   <img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
 <a href="https://www.linkedin.com/in/zain-almawla-dev">
