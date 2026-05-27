@@ -25,6 +25,9 @@
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
 <p>
+  <a href="https://zainalmawla.dev">
+    <img src="https://img.shields.io/badge/Portfolio-zainalmawla.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/zain-almawla-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -41,6 +44,22 @@
   <img src="https://img.shields.io/github/followers/zico20?label=Followers&style=flat&color=0e75b6" alt="followers"/>
   <img src="https://img.shields.io/github/stars/zico20?label=Stars&style=flat&color=0e75b6" alt="stars"/>
 </p>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  PORTFOLIO SPOTLIGHT                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+### 🌐 &nbsp;Explore my work in full
+
+[![Portfolio](https://img.shields.io/badge/zainalmawla.dev-Visit%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://zainalmawla.dev)
+
+*A curated showcase of projects, experience, and how I think about building software.*
 
 </div>
 
@@ -223,6 +242,9 @@ Got an interesting project? A remote role? Or just want to say hi?
 
 <br/>
 
+<a href="https://zainalmawla.dev">
+  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+</a>
 <a href="mailto:zainalmawla11@gmail.com">
   <img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
