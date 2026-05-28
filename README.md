@@ -7,20 +7,20 @@
 <!-- ║              ███████╗██║  ██║██║██║ ╚████║                   ║ -->
 <!-- ║              ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝                   ║ -->
 <!-- ║                                                              ║ -->
-<!-- ║                  Fullstack Developer · AI Enthusiast         ║ -->
+<!-- ║              Fullstack Developer · Detail-obsessed           ║ -->
 <!-- ║                                                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<a href="https://github.com/zico20">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Zain%20M.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
+<a href="https://zainalmawla.dev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Zain%20M.%20Al-Mawla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20I%20sweat%20the%20details&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
 </a>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-<a href="https://github.com/zico20">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Ankara+%F0%9F%87%B9%F0%9F%87%B7;Turning+ideas+into+pixel-perfect+products;Currently+building+AI-powered+experiences;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
+<a href="https://zainalmawla.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Thi-Qar%2C+Iraq+%F0%9F%87%AE%F0%9F%87%B6;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
 </a>
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
@@ -34,7 +34,7 @@
   <a href="mailto:contact@zainalmawla.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Ankara-Turkey-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Thi--Qar-Iraq-CE1126?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open to work"/>
 </p>
 
@@ -69,19 +69,21 @@
 <!-- ║                       ABOUT ME                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png"/><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png" width="28"/></picture> &nbsp;About Me
+## <picture><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png" width="28"/></picture> &nbsp;About Me
 
 ```yaml
-name: Zain M.
+name: Zain M. Al-Mawla
 role: Fullstack Developer
-location: Ankara, Turkey 🇹🇷
-focus: [ "Frontend craftsmanship", "AI-powered tools", "Clean architecture" ]
-experience: "3+ years building things that ship"
-currently_learning: [ "Local AI models", "Advanced system design" ]
+location: Thi-Qar, Iraq 🇮🇶
+philosophy: "I sweat the details most people never notice —
+             because they're what separate good from great."
+focus: [ "End-to-end web apps", "Clean accessible UIs", "Maintainable code" ]
+experience: "3+ years shipping production work for clients across MENA & Europe"
 languages_spoken: [ "Arabic (native)", "English (fluent)", "Turkish (intermediate)" ]
 available_for: "Remote opportunities worldwide 🌍"
-fun_fact: "I trained my own math model — because off-the-shelf wasn't enough"
 ```
+
+I build software end to end — from database schemas and APIs to the pixels users actually touch. I work across the stack with **Next.js, React, and TypeScript** on the frontend, and **Node, FastAPI, and PostgreSQL** on the backend. I've shipped landing pages, dashboards, e-commerce, and SaaS — owning scoping, design hand-off, implementation, and deployment myself.
 
 <br/>
 
@@ -113,17 +115,18 @@ fun_fact: "I trained my own math model — because off-the-shelf wasn't enough"
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="databases"/>
 </p>
 
-### AI / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" alt="ai"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,figma&theme=dark" alt="tools"/>
 </p>
+
+### 🌱 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" alt="learning"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+<sub><i>Diving into ML & data tooling — training small models and exploring AI-assisted features.</i></sub>
 
 </div>
 
@@ -186,32 +189,82 @@ fun_fact: "I trained my own math model — because off-the-shelf wasn't enough"
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 HazardSignal
-> Graduation project — Wildfire prediction system for Antalya, Turkey using ML and real-time environmental data.
+### 🔥 HazardSignal &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
+> A wildfire risk web platform for Antalya — interactive risk maps, daily forecasts, and a public API.
 
-`Python` `PyTorch` `FastAPI` `React` `PostgreSQL`
+`React` `FastAPI` `PostgreSQL` `Mapbox`
 
-<a href="https://github.com/zico20/HazardSignal">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="view project"/>
+<a href="https://hazardsignal.com">
+  <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/>
+</a>
+<a href="https://github.com/zico20/Hazardsignal">
+  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧮 AI Scientific Calculator
-> Smart calculator powered by a locally-trained AI model that solves complex math problems — no cloud, just clean local inference.
+### 🧮 Numina &nbsp;<img src="https://img.shields.io/badge/COMING_SOON-8B949E?style=flat-square&logoColor=white" alt="coming soon"/>
+> A smart scientific calculator that parses natural-language math and walks through solutions step by step.
 
-`Python` `PyTorch` `Next.js` `Tailwind`
+`Next.js` `TypeScript` `FastAPI` `Tailwind`
 
 <a href="https://github.com/zico20">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="view project"/>
+  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 TaskFlow &nbsp;<img src="https://img.shields.io/badge/COMING_SOON-8B949E?style=flat-square&logoColor=white" alt="coming soon"/>
+> A real-time collaborative task manager with live updates, drag-and-drop boards, and team workspaces.
+
+`Next.js` `FastAPI` `PostgreSQL`
+
+<a href="https://github.com/zico20">
+  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 NexShop &nbsp;<img src="https://img.shields.io/badge/COMING_SOON-8B949E?style=flat-square&logoColor=white" alt="coming soon"/>
+> A headless e-commerce starter kit with product catalog, cart, and Stripe checkout — ready to fork.
+
+`Next.js` `Supabase` `Stripe`
+
+<a href="https://github.com/zico20">
+  <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
 </a>
 
 </td>
 </tr>
 </table>
 
+<a href="https://github.com/zico20?tab=repositories">
+  <img src="https://img.shields.io/badge/See_more_on_GitHub-58A6FF?style=flat&logo=github&logoColor=white" alt="see more"/>
+</a>
+
 </div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  EXPERIENCE                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 💼 &nbsp;Experience
+
+**Freelance Fullstack Developer** · *Self-Employed* · `2023 — Present`
+
+- Design and ship end-to-end web apps for clients across **MENA and Europe**, using Next.js, TypeScript, FastAPI, and PostgreSQL.
+- Own the full delivery cycle: scoping, technical architecture, UI/UX implementation, deployment, and post-launch iteration.
+- Translate Figma designs into pixel-accurate, mobile-first interfaces with Tailwind CSS, shadcn/ui, and Framer Motion.
+- Build production REST and server-side APIs with authentication, role-based access, payments (Stripe), and email delivery (Resend).
+- Tune performance and SEO — image optimization, route caching, edge rendering, and Lighthouse scores in the 95+ range.
+- Deploy to Vercel with custom domains, environment-specific configs, and CI that runs typecheck, lint, and build on every push.
 
 <br/>
 
@@ -233,12 +286,12 @@ fun_fact: "I trained my own math model — because off-the-shelf wasn't enough"
 <!-- ║                  CONTACT                                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 📬 &nbsp;Let's Connect
+## 📬 &nbsp;Let's build something
 
 <div align="center">
 
-Got an interesting project? A remote role? Or just want to say hi?
-**My inbox is always open.** ⚡
+Have a project in mind, a role to discuss, or just want to say hi?
+**My inbox is always open — I usually reply within a day.** ⚡
 
 <br/>
 
@@ -252,6 +305,10 @@ Got an interesting project? A remote role? Or just want to say hi?
   <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 
+<br/>
+
+<sub>📍 Based in Thi-Qar, Iraq · Open to remote</sub>
+
 </div>
 
 <br/>
@@ -261,6 +318,6 @@ Got an interesting project? A remote role? Or just want to say hi?
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
 
-<sub>⭐ From <a href="https://github.com/zico20">Zain M.</a> · Built with care in Ankara 🇹🇷</sub>
+<sub>⭐ From <a href="https://zainalmawla.dev">Zain M. Al-Mawla</a> · Built with care 🇮🇶</sub>
 
 </div>
