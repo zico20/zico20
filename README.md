@@ -13,12 +13,12 @@
 
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<!-- ═══════════════ ANIMATED HEADER ══════════════=═ -->
 <a href="https://zainalmawla.dev">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Zain%20M.%20Al-Mawla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20I%20sweat%20the%20details&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
 </a>
 
-<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<!-- ═══════════════ TYPING ANIMATION ═════════════=══ -->
 <a href="https://zainalmawla.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Thi-Qar%2C+Iraq+%F0%9F%87%AE%F0%9F%87%B6;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
 </a>
