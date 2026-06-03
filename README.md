@@ -20,7 +20,7 @@
 
 <!-- ═══════════════ TYPING ANIMATION ═════════════=══ -->
 <a href="https://zainalmawla.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Thi-Qar%2C+Iraq+%F0%9F%87%AE%F0%9F%87%B6;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Ankara%2C+Turkey+%F0%9F%87%AE%F0%9F%87%B6;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
 </a>
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
@@ -34,7 +34,7 @@
   <a href="mailto:contact@zainalmawla.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Thi--Qar-Iraq-CE1126?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Ankara-Turkey-CE1126?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open to work"/>
 </p>
 
