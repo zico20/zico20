@@ -13,14 +13,14 @@
 
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ══════════════=═= -->
+<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 <a href="https://zainalmawla.dev">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Zain%20M.%20Al-Mawla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20I%20sweat%20the%20details&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
 </a>
 
-<!-- ═══════════════ TYPING ANIMATION ═════════════=══ -->
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://zainalmawla.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Ankara%2C+Turkey;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Ankara%2C+Turkey+%F0%9F%87%B9%F0%9F%87%B7;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
 </a>
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
@@ -34,7 +34,7 @@
   <a href="mailto:contact@zainalmawla.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Ankara-Turkey-CE1126?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Ankara-Turkey-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open to work"/>
 </p>
 
@@ -74,7 +74,7 @@
 ```yaml
 name: Zain M. Al-Mawla
 role: Fullstack Developer
-location: Thi-Qar, Iraq 🇮🇶
+location: Ankara, Turkey 🇹🇷
 philosophy: "I sweat the details most people never notice —
              because they're what separate good from great."
 focus: [ "End-to-end web apps", "Clean accessible UIs", "Maintainable code" ]
@@ -218,12 +218,15 @@ I build software end to end — from database schemas and APIs to the pixels use
 <tr>
 <td width="50%" valign="top">
 
-### 📋 TaskFlow &nbsp;<img src="https://img.shields.io/badge/COMING_SOON-8B949E?style=flat-square&logoColor=white" alt="coming soon"/>
-> A real-time collaborative task manager with live updates, drag-and-drop boards, and team workspaces.
+### 📋 IDARA &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
+> Real-time collaborative kanban — drag-and-drop boards, WebSocket live sync, JWT auth, full Arabic/English with RTL, and a Liquid Glass UI.
 
-`Next.js` `FastAPI` `PostgreSQL`
+`Next.js 14` `FastAPI` `PostgreSQL` `WebSockets` `dnd-kit` `Docker`
 
-<a href="https://github.com/zico20">
+<a href="https://idara-one.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/>
+</a>
+<a href="https://github.com/zico20/IDARA">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
 </a>
 
@@ -307,7 +310,7 @@ Have a project in mind, a role to discuss, or just want to say hi?
 
 <br/>
 
-<sub>📍 Based in Thi-Qar, Iraq · Open to remote</sub>
+<sub>📍 Based in Ankara, Turkey · Open to remote</sub>
 
 </div>
 
@@ -318,6 +321,6 @@ Have a project in mind, a role to discuss, or just want to say hi?
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
 
-<sub>⭐ From <a href="https://zainalmawla.dev">Zain M. Al-Mawla</a> · Built with care 🇮🇶</sub>
+<sub>⭐ From <a href="https://zainalmawla.dev">Zain M. Al-Mawla</a> · Built with care 🇹🇷</sub>
 
 </div>
