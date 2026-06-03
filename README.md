@@ -20,7 +20,7 @@
 
 <!-- ═══════════════ TYPING ANIMATION ═════════════=══ -->
 <a href="https://zainalmawla.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Ankara%2C+Turkey+%F0%9F%87%AE%F0%9F%87%B6;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Zain+%F0%9F%91%8B;Fullstack+Developer+based+in+Ankara%2C+Turkey;I+build+software+end+to+end;From+database+schemas+to+the+pixels+users+touch;Open+to+remote+opportunities+worldwide" alt="typing animation"/>
 </a>
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
