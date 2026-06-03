@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ══════════════=═ -->
+<!-- ═══════════════ ANIMATED HEADER ══════════════=═= -->
 <a href="https://zainalmawla.dev">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Zain%20M.%20Al-Mawla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20I%20sweat%20the%20details&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header banner"/>
 </a>
