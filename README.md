@@ -97,12 +97,17 @@ I build software end to end — from database schemas and APIs to the pixels use
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,php,java,cs&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=js,python,php,java,cs,dart&theme=dark" alt="languages"/>
 </p>
 
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,sass&theme=dark" alt="frontend"/>
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="mobile"/>
 </p>
 
 ### Backend
@@ -204,12 +209,12 @@ I build software end to end — from database schemas and APIs to the pixels use
 </td>
 <td width="50%" valign="top">
 
-### 🧮 Numina &nbsp;<img src="https://img.shields.io/badge/COMING_SOON-8B949E?style=flat-square&logoColor=white" alt="coming soon"/>
-> A smart scientific calculator that parses natural-language math and walks through solutions step by step.
+### 🧮 NUMINA &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
+> AI-powered cross-platform scientific calculator. Snap a photo of any equation and get a step-by-step solution via GPT-4o Vision. Bilingual (Arabic RTL + English).
 
-`Next.js` `TypeScript` `FastAPI` `Tailwind`
+`Flutter` `Dart` `Node.js` `Express` `GPT-4o Vision` `Riverpod`
 
-<a href="https://github.com/zico20">
+<a href="https://github.com/zico20/NUMINA">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
 </a>
 
