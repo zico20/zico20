@@ -117,12 +117,13 @@ I build software end to end — from database schemas and APIs to the pixels use
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma&theme=dark" alt="databases"/>
 </p>
 
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,figma&theme=dark" alt="tools"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="cloudinary"/>
 </p>
 
 ### 🌱 Currently Exploring
@@ -238,12 +239,12 @@ I build software end to end — from database schemas and APIs to the pixels use
 </td>
 <td width="50%" valign="top">
 
-### 🛒 NexShop &nbsp;<img src="https://img.shields.io/badge/COMING_SOON-8B949E?style=flat-square&logoColor=white" alt="coming soon"/>
-> A headless e-commerce starter kit with product catalog, cart, and Stripe checkout — ready to fork.
+### 🛒 Quvenza Store &nbsp;<img src="https://img.shields.io/badge/CODE_READY-DAA520?style=flat-square&logoColor=white" alt="code ready"/>
+> Production-grade premium electronics e-commerce for the Iraqi market. Brand & device-type browsing, variant-aware cart, side-by-side compare, Arabic/English RTL, USD/IQD, and a full admin dashboard.
 
-`Next.js` `Supabase` `Stripe`
+`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Tailwind v4` `Zustand` `Docker`
 
-<a href="https://github.com/zico20">
+<a href="https://github.com/zico20/Quvenza-Store">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
 </a>
 
