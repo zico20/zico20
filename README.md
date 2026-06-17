@@ -239,7 +239,7 @@ I build software end to end — from database schemas and APIs to the pixels use
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Quvenza Store &nbsp;<img src="https://img.shields.io/badge/CODE_READY-DAA520?style=flat-square&logoColor=white" alt="code ready"/>
+### 🛒 Quvenza Store &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
 > Production-grade premium electronics e-commerce for the Iraqi market. Brand & device-type browsing, variant-aware cart, side-by-side compare, Arabic/English RTL, USD/IQD, and a full admin dashboard.
 
 `Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Tailwind v4` `Zustand` `Docker`
