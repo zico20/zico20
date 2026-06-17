@@ -74,6 +74,7 @@
 ```yaml
 name: Zain M. Al-Mawla
 role: Fullstack Developer
+origin: "Originally from Iraq 🇮🇶"
 location: Ankara, Turkey 🇹🇷
 philosophy: "I sweat the details most people never notice —
              because they're what separate good from great."
@@ -83,7 +84,7 @@ languages_spoken: [ "Arabic (native)", "English (fluent)", "Turkish (intermediat
 available_for: "Remote opportunities worldwide 🌍"
 ```
 
-I build software end to end — from database schemas and APIs to the pixels users actually touch. I work across the stack with **Next.js, React, and TypeScript** on the frontend, and **Node, FastAPI, and PostgreSQL** on the backend. I've shipped landing pages, dashboards, e-commerce, and SaaS — owning scoping, design hand-off, implementation, and deployment myself.
+I'm Zain — a fullstack developer, originally from Iraq and currently based in Ankara, Turkey. I build software end to end, from database schemas and APIs to the pixels users actually touch. I work across the stack with **Next.js, React, and TypeScript** on the frontend, and **Node, FastAPI, and PostgreSQL** on the backend. I've shipped production work for clients across MENA and Europe — landing pages, dashboards, e-commerce, and SaaS — handling scoping, design hand-off, implementation, and deployment myself.
 
 <br/>
 
@@ -97,12 +98,12 @@ I build software end to end — from database schemas and APIs to the pixels use
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,php,java,cs,dart&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=js,python,php,java,cs&theme=dark" alt="languages"/>
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,sass&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,sass&theme=dark" alt="frontend"/>
 </p>
 
 ### Mobile
@@ -112,27 +113,18 @@ I build software end to end — from database schemas and APIs to the pixels use
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet,laravel&theme=dark" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet&theme=dark" alt="backend"/>
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma&theme=dark" alt="databases"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" alt="databases"/>
 </p>
 
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,figma&theme=dark" alt="tools"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="cloudinary"/>
 </p>
-
-### 🌱 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" alt="learning"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-<sub><i>Diving into ML & data tooling — training small models and exploring AI-assisted features.</i></sub>
 
 </div>
 
@@ -211,9 +203,9 @@ I build software end to end — from database schemas and APIs to the pixels use
 <td width="50%" valign="top">
 
 ### 🧮 NUMINA &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
-> AI-powered cross-platform scientific calculator. Snap a photo of any equation and get a step-by-step solution via GPT-4o Vision. Bilingual (Arabic RTL + English).
+> An AI-powered cross-platform scientific calculator — snap a photo of any equation and get a step-by-step solution via GPT-4o Vision, paired with a full scientific keypad. Built with Flutter, bilingual (Arabic RTL + English), with a privacy-first architecture.
 
-`Flutter` `Dart` `Node.js` `Express` `GPT-4o Vision` `Riverpod`
+`Flutter` `Dart` `GPT-4o` `Node.js`
 
 <a href="https://github.com/zico20/NUMINA">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
@@ -225,9 +217,9 @@ I build software end to end — from database schemas and APIs to the pixels use
 <td width="50%" valign="top">
 
 ### 📋 IDARA &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
-> Real-time collaborative kanban — drag-and-drop boards, WebSocket live sync, JWT auth, full Arabic/English with RTL, and a Liquid Glass UI.
+> A real-time collaborative kanban task manager — boards, drag-and-drop, live presence, and instant sync across every viewer over WebSockets.
 
-`Next.js 14` `FastAPI` `PostgreSQL` `WebSockets` `dnd-kit` `Docker`
+`Next.js` `FastAPI` `PostgreSQL` `WebSockets`
 
 <a href="https://idara-one.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="live demo"/>
@@ -240,9 +232,9 @@ I build software end to end — from database schemas and APIs to the pixels use
 <td width="50%" valign="top">
 
 ### 🛒 Quvenza Store &nbsp;<img src="https://img.shields.io/badge/LIVE-2EA44F?style=flat-square&logoColor=white" alt="live"/>
-> Production-grade premium electronics e-commerce for the Iraqi market. Brand & device-type browsing, variant-aware cart, side-by-side compare, Arabic/English RTL, USD/IQD, and a full admin dashboard.
+> A production-grade e-commerce platform for selling phones, laptops, tablets, and headphones — built for the Iraqi market. Storefront, cart, JWT auth, and an integrated admin dashboard, on a Next.js + PostgreSQL/Prisma stack.
 
-`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Tailwind v4` `Zustand` `Docker`
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
 <a href="https://github.com/zico20/Quvenza-Store">
   <img src="https://img.shields.io/badge/View_Code-161B22?style=for-the-badge&logo=github&logoColor=white" alt="view code"/>
